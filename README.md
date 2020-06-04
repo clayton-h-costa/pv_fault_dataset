@@ -81,7 +81,7 @@ Degradation, Short-Circuit and Open Circuit are artificially introduced, while t
 
 Degradation was introduced via a resistive load bank between two modules.
 
-Short-Circuit was introduced wiath a cable connected between the positive connection of a module and the negative connection of the adjacent module.
+Short-Circuit was introduced with a cable connected between the positive connection of a module and the negative connection of the adjacent module.
 
 Open Circuit was introduced with the oppening of one string's main circuit breaker.
       
