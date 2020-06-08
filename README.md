@@ -1,6 +1,10 @@
+## Dataset
+
+The following dataset was used in the paper submitted to Sensors MDPI: Monitoring System for Online Fault Detection and Classification in Photovoltaic Plants by André E. Lazzaretti, Clayton H. da Costa, Marcelo P. Rodrigues, Guilherme D.Yamada, Gilberto Lexinoski, Guilherme L. Moritz, Elder Oroski, Rafael E. de Góes, Robson R. Linhares, Paulo C. Stadzisz, Júlio S. Omori, and Rodrigo B. dos Santos.
+
 ## Photovoltaic fault dataset
 
-This dataset contains 16 days of data of a grid-tie photovoltaic plant's operation with both faulty and normal operation. The dataset is divided into 2 '.mat' files (which can be loaded with MATLAB).
+This dataset contains 16 days of data of a grid-tie photovoltaic plant's operation with both faulty and normal operation. The dataset is divided into 2 '.mat' files (which can be loaded with MATLAB). 
 
 ## Photovoltaic plant's description
 
